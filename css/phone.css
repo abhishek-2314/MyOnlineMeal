@@ -1,0 +1,53 @@
+/* Navigation bar  */
+nav{
+    flex-direction: column;
+    gap: 0;
+}
+
+.list ul{
+    gap: 0;
+}
+
+.list ul li a{
+    font-size: 1.2rem;
+}
+
+
+/* Home section  */
+#home p{
+    font-size: 1rem;
+}
+
+/* Services section  */
+#services{
+    flex-direction: column;
+}
+
+.box{
+    margin: .5rem;
+}
+
+
+/* Clients section  */
+#client-section{
+    flex-wrap: wrap;
+}
+
+/* Contact section  */
+form{
+    width: 80%;
+}
+
+/* Footer  */
+.footer p{
+    font-size: 1rem;
+}
+
+
+.heading1{
+    font-size: 2rem;
+}
+
+.btn{
+    font-size: 1rem;
+}
